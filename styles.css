@@ -16,8 +16,9 @@
     margin: 20px auto;
     padding: 0 7px;
   }
-  
-  header h1 {
+
+/*header h1*/
+.bareta   {
     text-align: center;
     margin: -4px 0;
     letter-spacing: 0.15px
